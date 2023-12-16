@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=GND Pin=BAT-1
+Removed Pin From Net: NetName=NetBAT_2 Pin=BAT-2
+Removed Member From Class: ClassName=Sheet1 Member=P?
+Change Component Footprint: Designator=ADC Old Footprint=HDR1X2H New Footprint=MHDR1X2
+Change Component Footprint: Designator=MIC Old Footprint=HDR1X2H New Footprint=MHDR1X2
+Change Component Comment : Designator=ADC Old Comment=Header 2H New Comment=MHDR1X2
+Change Component Comment : Designator=MIC Old Comment=Header 2H New Comment=MHDR1X2
+Change Component Designator: OldDesignator=P? NewDesignator=BAT
+Added Pin To Net: NetName=GND Pin=BAT-1
+Added Pin To Net: NetName=NetBAT_2 Pin=BAT-2
+Added Room: Name=Sheet1

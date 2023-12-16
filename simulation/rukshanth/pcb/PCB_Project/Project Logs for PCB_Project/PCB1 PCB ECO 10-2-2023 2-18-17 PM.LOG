@@ -1,0 +1,43 @@
+Removed Pin From Net: NetName=NetADC_1 Pin=ADC-1
+Removed Pin From Net: NetName=GND Pin=C1-1
+Removed Pin From Net: NetName=GND Pin=C4-1
+Removed Pin From Net: NetName=NetBAT_2 Pin=C4-2
+Removed Member From Class: ClassName=Sheet1 Member=C1
+Removed Member From Class: ClassName=Sheet1 Member=C4
+Change component parameters: Designator = "C2" ("C2"); Footprint = "RAD-0.3"; UniqueID = "\CNFFPXNZ" ("\CNFFPXNZ")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3" ("C3"); Footprint = "RAD-0.3"; UniqueID = "\FVMSSJHN" ("\FVMSSJHN")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.22uF"; VariantName = "[No Variations]"
+Added Component: Designator=U4(DIP762W46P254L960H508Q8)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/LM358N/Onsemi/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LM358N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LM358N/Onsemi/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=POWER Pin=C2-2
+Added Pin To Net: NetName=POWER Pin=Q1-3
+Added Pin To Net: NetName=NetADC_1 Pin=U4-3
+Added Pin To Net: NetName=GND Pin=U4-4
+Added Pin To Net: NetName=POWER Pin=U4-8
+Change Net Name : Old Net Name=NetADC_1 New Net Name=NetC8_1
+Change Net Name : Old Net Name=POWER New Net Name=VCC
+Added Pin To Net: NetName=NetADC_1 Pin=ADC-1
+Added Pin To Net: NetName=NetADC_1 Pin=U4-1
+Added Pin To Net: NetName=NetADC_1 Pin=U4-2
+Added Net: Name=NetADC_1
+Added Member To Class: ClassName=Sheet1 Member=Component BAT MHDR1X2
+Added Member To Class: ClassName=Sheet1 Member=Component U4 LM358N
+Added Room: Name=Sheet1
